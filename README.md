@@ -1,4 +1,4 @@
-# Note di Informatica per UNISA
+# Appunti di Informatica per UNISA
 
 Questa repository raccoglie le mie note universitarie del corso di Laurea di Informatica (**Triennale**, resto 0) dell'Università degli Studi di Salerno, organizzate in **Obsidian**.
 
@@ -13,6 +13,8 @@ Le note coprono quasi tutti i corsi, tranne Programmazione I e Ricerca Operativa
 4. Naviga tra le note utilizzando la sidebar, gli indici dei corsi e i link interni in **modalità reading**
 
 Si può modificare la sezione "Appearance" delle impostazioni per cambiare il tema e "Appearance>CSS Snippets" per scegliere gli stili sempre attivi.
+
+Puoi usare o modificare questa repository come vuoi.
 
 ## Disclaimer
 
