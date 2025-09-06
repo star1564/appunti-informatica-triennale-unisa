@@ -1,0 +1,5 @@
+/* Se attivo usare la sidebar a destra con "File properties for this file" */
+body {
+	--metadata-display-reading: none;
+	--metadata-display-editing: none;
+}

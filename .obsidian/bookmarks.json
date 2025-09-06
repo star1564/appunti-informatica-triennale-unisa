@@ -1,0 +1,327 @@
+{
+  "items": [
+    {
+      "type": "group",
+      "ctime": 1702729335053,
+      "items": [
+        {
+          "type": "file",
+          "ctime": 1702729305966,
+          "path": "01 - Triennale/3° Anno/1° Semestre/Machine Learning/019 Gestire Dataset Sbilanciati.md",
+          "title": "Confusion Matrix, Precision, Recall, F1 Score"
+        },
+        {
+          "type": "file",
+          "ctime": 1702738077409,
+          "path": "01 - Triennale/3° Anno/1° Semestre/Machine Learning/030 Implementare un Albero Decisionale.md",
+          "title": "Come creare un albero decisionale"
+        },
+        {
+          "type": "file",
+          "ctime": 1702824314042,
+          "path": "01 - Triennale/3° Anno/1° Semestre/Machine Learning/031 Naive Bayes.md",
+          "title": "Naive Bayes"
+        },
+        {
+          "type": "file",
+          "ctime": 1702974151721,
+          "path": "01 - Triennale/3° Anno/1° Semestre/Machine Learning/022 Gestione di Valori Mancanti.md",
+          "title": "Cancellazione e Imputazione"
+        },
+        {
+          "type": "file",
+          "ctime": 1702978141644,
+          "path": "01 - Triennale/3° Anno/1° Semestre/Machine Learning/029 Metriche di Valutazione.md",
+          "title": "Impurità di Gini, Information Gain, Entropy"
+        }
+      ],
+      "title": "Machine Learning, esame scritto"
+    },
+    {
+      "type": "group",
+      "ctime": 1712389266117,
+      "items": [
+        {
+          "type": "file",
+          "ctime": 1712389333606,
+          "path": "01 - Triennale/3° Anno/2° Semestre/Elementi di Teoria della Computazione/004 Automi Finiti Deterministici.md",
+          "subpath": "#Definizione Formale",
+          "title": "DFA Definizione Formale"
+        },
+        {
+          "type": "file",
+          "ctime": 1712389681789,
+          "path": "01 - Triennale/3° Anno/2° Semestre/Elementi di Teoria della Computazione/005 Linguaggio di un DFA.md",
+          "subpath": "#Da un DFA ad un Linguaggio",
+          "title": "DFA -> Linguaggio"
+        },
+        {
+          "type": "file",
+          "ctime": 1712389831751,
+          "path": "01 - Triennale/3° Anno/2° Semestre/Elementi di Teoria della Computazione/006 Funzione di Transizione Estesa DFA.md",
+          "title": "Funzione di Transizione Estesa DFA"
+        },
+        {
+          "type": "file",
+          "ctime": 1712389773779,
+          "path": "01 - Triennale/3° Anno/2° Semestre/Elementi di Teoria della Computazione/005 Linguaggio di un DFA.md",
+          "subpath": "#Definizione Formale del Linguaggio Riconosciuto da un DFA",
+          "title": "Definizione Formale del Linguaggio Riconosciuto da un DFA"
+        },
+        {
+          "type": "file",
+          "ctime": 1712390177654,
+          "path": "01 - Triennale/3° Anno/2° Semestre/Elementi di Teoria della Computazione/007 Linguaggio Regolare.md",
+          "title": "Linguaggio Regolare"
+        },
+        {
+          "type": "file",
+          "ctime": 1712390516285,
+          "path": "01 - Triennale/3° Anno/2° Semestre/Elementi di Teoria della Computazione/007 Linguaggio Regolare.md",
+          "subpath": "#Chiusure su Linguaggi Regolari",
+          "title": "Chiusure su Linguaggi Regolari"
+        },
+        {
+          "type": "file",
+          "ctime": 1712391933791,
+          "path": "01 - Triennale/3° Anno/2° Semestre/Elementi di Teoria della Computazione/009 Automi Finiti Non Deterministici.md",
+          "title": "NFA"
+        },
+        {
+          "type": "file",
+          "ctime": 1712392242670,
+          "path": "01 - Triennale/3° Anno/2° Semestre/Elementi di Teoria della Computazione/010 ε-chiusura negli NFA.md",
+          "title": "ε-chiusura negli NFA"
+        },
+        {
+          "type": "file",
+          "ctime": 1712392708655,
+          "path": "01 - Triennale/3° Anno/2° Semestre/Elementi di Teoria della Computazione/011 Funzione di Transizione Estesa NFA.md",
+          "title": "Funzione di Transizione Estesa NFA"
+        },
+        {
+          "type": "file",
+          "ctime": 1712393143673,
+          "path": "01 - Triennale/3° Anno/2° Semestre/Elementi di Teoria della Computazione/012 Linguaggio di un NFA.md",
+          "subpath": "#Equivalenza NFA-DFA",
+          "title": "Equivalenza NFA-DFA"
+        },
+        {
+          "type": "file",
+          "ctime": 1712394705255,
+          "path": "01 - Triennale/3° Anno/2° Semestre/Elementi di Teoria della Computazione/014 Espressioni Regolari.md",
+          "title": "Espressioni Regolari"
+        },
+        {
+          "type": "file",
+          "ctime": 1712395567128,
+          "path": "01 - Triennale/3° Anno/2° Semestre/Elementi di Teoria della Computazione/017 Pumping Lemma.md",
+          "title": "Pumping Lemma"
+        }
+      ],
+      "title": "ETC prova intercorso 1"
+    },
+    {
+      "type": "group",
+      "ctime": 1718986253636,
+      "items": [
+        {
+          "type": "file",
+          "ctime": 1718986325887,
+          "path": "01 - Triennale/3° Anno/2° Semestre/Elementi di Teoria della Computazione/042 Linguaggi Indecidibili.md",
+          "subpath": "#Dimostrazione ($A_{TM}$)",
+          "title": "ATM"
+        },
+        {
+          "type": "file",
+          "ctime": 1719042918958,
+          "path": "01 - Triennale/3° Anno/2° Semestre/Elementi di Teoria della Computazione/045 Riducibilità.md",
+          "subpath": "#Riducibilità mediante funzione",
+          "title": "Riduzione mediante funzione"
+        },
+        {
+          "type": "file",
+          "ctime": 1719043210212,
+          "path": "01 - Triennale/3° Anno/2° Semestre/Elementi di Teoria della Computazione/055 La Classe P.md",
+          "title": "Classe P"
+        },
+        {
+          "type": "file",
+          "ctime": 1719043221727,
+          "path": "01 - Triennale/3° Anno/2° Semestre/Elementi di Teoria della Computazione/058 La Classe NP.md",
+          "title": "Classe NP"
+        },
+        {
+          "type": "file",
+          "ctime": 1719043231963,
+          "path": "01 - Triennale/3° Anno/2° Semestre/Elementi di Teoria della Computazione/060 La Classe coNP.md",
+          "title": "Classe co-NP"
+        },
+        {
+          "type": "file",
+          "ctime": 1719043011215,
+          "path": "01 - Triennale/3° Anno/2° Semestre/Elementi di Teoria della Computazione/062 Riducibilità in tempo polinomiale.md",
+          "title": "Riduzione di tempo polinomiale"
+        },
+        {
+          "type": "file",
+          "ctime": 1719043130832,
+          "path": "01 - Triennale/3° Anno/2° Semestre/Elementi di Teoria della Computazione/067 Vertex Cover, NP-Completezza.md",
+          "title": "Riduzione P. da 3SAT a VERTEX-COVER (Grafo)"
+        },
+        {
+          "type": "file",
+          "ctime": 1719043714720,
+          "path": "01 - Triennale/3° Anno/2° Semestre/Elementi di Teoria della Computazione/068 Subset-Sum, NP-Completezza.md",
+          "title": "Riduzione P. da 3SAT a SUBSET-SUM (Tabella)"
+        },
+        {
+          "type": "file",
+          "ctime": 1719043807449,
+          "path": "01 - Triennale/3° Anno/2° Semestre/Elementi di Teoria della Computazione/050 Teorema di Rice.md",
+          "title": "Teorema di Rice"
+        }
+      ],
+      "title": "ETC prova intercorso 2"
+    },
+    {
+      "type": "group",
+      "ctime": 1739353202794,
+      "items": [
+        {
+          "type": "file",
+          "ctime": 1739353272629,
+          "path": "01 - Triennale/1° Anno/2° Semestre/Analisi/022 Numeri Complessi.md"
+        },
+        {
+          "type": "file",
+          "ctime": 1739353286010,
+          "path": "01 - Triennale/1° Anno/2° Semestre/Analisi/023 Forma Algebrica di un Numero Complesso.md"
+        },
+        {
+          "type": "file",
+          "ctime": 1739353307121,
+          "path": "01 - Triennale/1° Anno/2° Semestre/Analisi/024 Operazioni e Proprietà dei Numeri Complessi.md"
+        },
+        {
+          "type": "file",
+          "ctime": 1739353526079,
+          "path": "01 - Triennale/1° Anno/2° Semestre/Analisi/025 Forma Trigonometrica di un Numero Complesso.md"
+        },
+        {
+          "type": "file",
+          "ctime": 1739353531256,
+          "path": "01 - Triennale/1° Anno/2° Semestre/Analisi/026 Operazioni in Forma Trigonometrica.md"
+        },
+        {
+          "type": "file",
+          "ctime": 1739353555737,
+          "path": "01 - Triennale/1° Anno/2° Semestre/Analisi/039 Infiniti.md"
+        },
+        {
+          "type": "file",
+          "ctime": 1739353580897,
+          "path": "01 - Triennale/1° Anno/2° Semestre/Analisi/040 Limiti Notevoli.md"
+        },
+        {
+          "type": "file",
+          "ctime": 1739353598795,
+          "path": "01 - Triennale/1° Anno/2° Semestre/Analisi/041 Calcolo dei Limiti di una Funzione.md"
+        },
+        {
+          "type": "file",
+          "ctime": 1739353609283,
+          "path": "01 - Triennale/1° Anno/2° Semestre/Analisi/042 Campo di Esistenza.md"
+        },
+        {
+          "type": "file",
+          "ctime": 1739353618447,
+          "path": "01 - Triennale/1° Anno/2° Semestre/Analisi/044 Asintoto di una Funzione.md"
+        },
+        {
+          "type": "file",
+          "ctime": 1739353629419,
+          "path": "01 - Triennale/1° Anno/2° Semestre/Analisi/047 Derivate Fondamentali.md"
+        },
+        {
+          "type": "file",
+          "ctime": 1739353646395,
+          "path": "01 - Triennale/1° Anno/2° Semestre/Analisi/048 Calcolo delle Derivate di una Funzione.md"
+        },
+        {
+          "type": "file",
+          "ctime": 1739353665291,
+          "path": "01 - Triennale/1° Anno/2° Semestre/Analisi/058 Studio di una Funzione.md"
+        },
+        {
+          "type": "file",
+          "ctime": 1739353681518,
+          "path": "01 - Triennale/1° Anno/2° Semestre/Analisi/067 Primitiva di una Funzione.md"
+        },
+        {
+          "type": "file",
+          "ctime": 1739353689435,
+          "path": "01 - Triennale/1° Anno/2° Semestre/Analisi/069 Primitive Fondamentali.md"
+        },
+        {
+          "type": "file",
+          "ctime": 1739353698005,
+          "path": "01 - Triennale/1° Anno/2° Semestre/Analisi/073 Integrazione per Sostituzione.md"
+        },
+        {
+          "type": "file",
+          "ctime": 1739353702530,
+          "path": "01 - Triennale/1° Anno/2° Semestre/Analisi/074 Integrazione per Decomposizione in Somma.md"
+        },
+        {
+          "type": "file",
+          "ctime": 1739353706992,
+          "path": "01 - Triennale/1° Anno/2° Semestre/Analisi/075 Integrazione di Razionali Fratti.md"
+        },
+        {
+          "type": "file",
+          "ctime": 1739353716599,
+          "path": "01 - Triennale/1° Anno/2° Semestre/Analisi/076 Integrazione per Parti.md"
+        },
+        {
+          "type": "file",
+          "ctime": 1739353721154,
+          "path": "01 - Triennale/1° Anno/2° Semestre/Analisi/077 Integrazione con Formule Parametriche.md"
+        },
+        {
+          "type": "file",
+          "ctime": 1739353737556,
+          "path": "01 - Triennale/1° Anno/2° Semestre/Analisi/079 Carattere di una Serie Numerica.md"
+        },
+        {
+          "type": "file",
+          "ctime": 1739353742203,
+          "path": "01 - Triennale/1° Anno/2° Semestre/Analisi/081 Serie Geometrica.md"
+        }
+      ],
+      "title": "Analisi, esame scritto"
+    },
+    {
+      "type": "group",
+      "ctime": 1739787752071,
+      "items": [
+        {
+          "type": "file",
+          "ctime": 1739787763640,
+          "path": "01 - Triennale/1° Anno/2° Semestre/Analisi/016 Teorema di Invertibilità delle funzioni Strettamente Monotone.md"
+        },
+        {
+          "type": "file",
+          "ctime": 1739787987084,
+          "path": "01 - Triennale/1° Anno/2° Semestre/Analisi/028 Teorema Fondamentale dell_Algebra.md"
+        },
+        {
+          "type": "file",
+          "ctime": 1739788215649,
+          "path": "01 - Triennale/1° Anno/2° Semestre/Analisi/034 Teoremi per i Limiti di Successioni.md"
+        }
+      ],
+      "title": "Analisi, esame orale"
+    }
+  ]
+}

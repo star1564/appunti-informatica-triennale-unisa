@@ -1,0 +1,15 @@
+/* Mermaid graphs center */
+.mermaid-center .el-pre > .mermaid {
+	display: flex !important;
+	justify-content: center;
+}
+
+.mermaid-large-1 .el-pre > .mermaid {
+	transform: scale(1.1);
+	transform-origin: center;
+}
+
+.mermaid-large-2 .el-pre > .mermaid {
+	transform: scale(1.2);
+	transform-origin: center;
+}

@@ -1,0 +1,26 @@
+{
+	"nodes":[
+		{"id":"c73d59cc0be62f1d","type":"group","x":680,"y":-544,"width":1430,"height":960,"color":"2","label":"Tipi di Eccezioni"},
+		{"id":"1bf55efb35e6276c","type":"group","x":-560,"y":-544,"width":1028,"height":1172,"color":"5","label":"Usare le Eccezioni"},
+		{"id":"4d0eb031860265a0","type":"group","x":200,"y":-1520,"width":640,"height":680,"color":"1","label":"Errori vs Eccezioni"},
+		{"id":"a245877191fcb60a","type":"text","text":"**Eccezione**: è un _evento non accettato o non atteso_. Indica un errore più comune ed è quindi gestibile all'interno del programma\n\nQuando si incontra una eccezione è possibile _riprendere l'esecuzione normale_ oppure _terminare il programma_ con la segnalazione dell'errore.","x":260,"y":-1160,"width":520,"height":256},
+		{"id":"eaff2fecfea68277","type":"text","text":"**Errore**: rappresenta una _una situazione anomala ed irrecuperabile_. Esso indica un problema serio, dovuto a condizioni accidentali non prevedibili, quindi NON gestibili dal programmatore. Questi non dovrebbero essere gestiti dai programmi.","x":321,"y":-1480,"width":399,"height":256},
+		{"id":"9dc2baa249ea0542","type":"text","text":"**Personalizzate**:\nPer creare un'eccezione personalizzata si può creare una nuova classe che estende la classe `Exception`.","x":752,"y":-350,"width":370,"height":186,"color":"6"},
+		{"id":"75034a95d7223693","type":"file","file":"99 - Meta/Attachments/Images/Pasted image 20221122122045.png","x":1004,"y":-40,"width":753,"height":380},
+		{"id":"ae05754b1a17cdd5","type":"text","text":"Per **gestire** una eccezione si usano le keyword **Try e Catch**.\nTutte le eccezioni dovrebbero essere gestite in qualche punto del programma, altrimenti viene solo visualizzato un messaggio di errore facendolo terminare.\n\nPer gestire eccezioni si usa l'enunciato **`try` / `catch`**, che va scritto in una zona del programma che sappia come gestire una particolare eccezione.\n\nIl blocco `try` contiene enunciati che possono provocare il lancio di un'eccezione del tipo che si vuole gestire ed è seguito da clausole `catch`.\n\n```Java\ntry{\n\tenunciato\n\tenunciato\n\t...\n}\n//Se try produce un eccezione del seguente tipo, si passa al catch \ncatch (ClasseEccezione oggettoEccezione){\n\tenunciato\n\tenunciato\n\t...\n}\n```\n","x":-540,"y":8,"width":988,"height":600},
+		{"id":"4ec080398036e6b5","type":"text","text":"**Controllate**:\nmentre si compila il programma, queste vengono segnalate, annullando la compilazione.","x":1200,"y":-350,"width":400,"height":186,"color":"1"},
+		{"id":"51c4416f0b31494f","type":"text","text":"Per **lanciare** (o segnalare) un'_eccezione_ si usa la keyword `throw`, lanciando un oggetto di tipo \"eccezione\".\n\nQuando si lancia un'eccezione, l'elaborazione passa al gestore delle eccezioni, che ferma l'esecuzione del programma e mostra un _errore personalizzato descritto nel codice_.\n\nSi usa insieme al costruttore `new` ed una classe.\n```Java\nthrow new NomeEccezione(argomenti);\n```","x":-385,"y":-482,"width":679,"height":372},
+		{"id":"ee749948a0416431","type":"text","text":"Eccezioni Built-In","x":1568,"y":-512,"width":231,"height":60},
+		{"id":"87a6d5b2eaabaa46","type":"text","text":"**Non Controllate**:\nnon vengono controllate durante la compilazione.","x":1720,"y":-350,"width":370,"height":186,"color":"4"},
+		{"id":"45d443cf176927cf","type":"text","text":"Eccezioni User-Defined","x":910,"y":-512,"width":290,"height":60}
+	],
+	"edges":[
+		{"id":"7c5053d4ccb543aa","fromNode":"ee749948a0416431","fromSide":"bottom","toNode":"4ec080398036e6b5","toSide":"top","color":"1"},
+		{"id":"7fd2e1ce7246e64b","fromNode":"ee749948a0416431","fromSide":"bottom","toNode":"87a6d5b2eaabaa46","toSide":"top","color":"4"},
+		{"id":"3bf4c981b94c2cea","fromNode":"a245877191fcb60a","fromSide":"bottom","toNode":"ee749948a0416431","toSide":"top","color":"2"},
+		{"id":"f86634e07e896ce8","fromNode":"a245877191fcb60a","fromSide":"bottom","toNode":"51c4416f0b31494f","toSide":"top","color":"5"},
+		{"id":"321e892285625786","fromNode":"51c4416f0b31494f","fromSide":"bottom","toNode":"ae05754b1a17cdd5","toSide":"top"},
+		{"id":"d223a5a6450d8a28","fromNode":"45d443cf176927cf","fromSide":"bottom","toNode":"9dc2baa249ea0542","toSide":"top","color":"6"},
+		{"id":"e979ed3fb95c7a39","fromNode":"a245877191fcb60a","fromSide":"bottom","toNode":"45d443cf176927cf","toSide":"top","color":"2"}
+	]
+}

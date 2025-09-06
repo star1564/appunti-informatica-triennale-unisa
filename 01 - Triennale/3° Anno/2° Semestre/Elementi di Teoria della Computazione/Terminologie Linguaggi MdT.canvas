@@ -1,0 +1,25 @@
+{
+	"nodes":[
+		{"id":"706b46fb38927306","type":"text","text":"Un [[001 Linguaggio|Linguaggio]] di una [[018 Macchine di Turing|Macchina di Turing]] è...","x":-220,"y":220,"width":300,"height":100},
+		{"id":"2215f25cd8d29fbb","type":"text","text":"![[023 Linguaggio Turing-Riconoscibile#^5b96ec]]\n","x":-1680,"y":-120,"width":900,"height":260,"color":"4"},
+		{"id":"91e2b75212cfb239","type":"text","text":"![[023 Linguaggio Turing-Riconoscibile#^940e45]]\n\n![[019 Funzione di Transizione delle Macchine di Turing#^d05899]]","x":-695,"y":-960,"width":1250,"height":560,"color":"1"},
+		{"id":"b8cd2a62d1c3543f","type":"text","text":"![[024 Macchine Decisionali#^37591d]]","x":-1060,"y":640,"width":832,"height":148,"color":"2"},
+		{"id":"a34403f5bc53cdb8","type":"text","text":"![[024 Macchine Decisionali#^ba5ab0]]","x":180,"y":664,"width":750,"height":100,"color":"2"},
+		{"id":"982fb13f71ca9273","type":"text","text":"![[040 Linguaggi Non Turing-Riconoscibili#^89609e]]","x":660,"y":-83,"width":918,"height":186,"color":"5"}
+	],
+	"edges":[
+		{"id":"985de24df13d3520","fromNode":"706b46fb38927306","fromSide":"left","toNode":"2215f25cd8d29fbb","toSide":"right","color":"4","label":"Turing-Riconoscibile"},
+		{"id":"79480a57b260efe0","fromNode":"2215f25cd8d29fbb","fromSide":"top","toNode":"91e2b75212cfb239","toSide":"bottom","color":"1","label":"Riconosciuto"},
+		{"id":"7efe29c14a7c0038","fromNode":"706b46fb38927306","fromSide":"top","toNode":"91e2b75212cfb239","toSide":"bottom","color":"1","label":"Riconosciuto"},
+		{"id":"b1cfafa686a5b2b7","fromNode":"b8cd2a62d1c3543f","fromSide":"left","toNode":"2215f25cd8d29fbb","toSide":"bottom","color":"4","label":"Turing-Riconoscibile"},
+		{"id":"8218eecd0485947d","fromNode":"706b46fb38927306","fromSide":"bottom","toNode":"b8cd2a62d1c3543f","toSide":"top","color":"2","label":"Decidibile"},
+		{"id":"eed0767f72631f85","fromNode":"706b46fb38927306","fromSide":"bottom","toNode":"a34403f5bc53cdb8","toSide":"top","color":"2","label":"Deciso"},
+		{"id":"a216c27a07bd2a83","fromNode":"a34403f5bc53cdb8","fromSide":"left","toNode":"b8cd2a62d1c3543f","toSide":"right","color":"2","label":"Decidibile"},
+		{"id":"4394a3b3e8938791","fromNode":"706b46fb38927306","fromSide":"right","toNode":"982fb13f71ca9273","toSide":"left","color":"5","label":"Non Turing-Riconoscibile"},
+		{"id":"fe1362880ba730ff","fromNode":"982fb13f71ca9273","fromSide":"top","toNode":"91e2b75212cfb239","toSide":"bottom","color":"1","label":"Riconosciuto"}
+	],
+	"metadata":{
+		"version":"1.0-1.0",
+		"frontmatter":{}
+	}
+}

@@ -1,0 +1,14 @@
+/* Colore grassetto rosso*/
+strong,
+.cm-strong,
+.markdown-preview-section strong {
+	color: #cc241d !important;
+}
+
+/* Colore corsivo blu e font normale*/
+em,
+.cm-em,
+.markdown-preview-section em {
+	color: #61afef !important;
+	font-style: italic !important;
+}

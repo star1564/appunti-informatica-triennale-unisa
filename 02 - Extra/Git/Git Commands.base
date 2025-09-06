@@ -1,0 +1,21 @@
+properties:
+  note.git-section:
+    displayName: Section
+  note.git-order:
+    displayName: Step
+views:
+  - type: cards
+    name: All Commands
+    filters:
+      and:
+        - file.inFolder("02 - Extra/Git")
+        - file.hasProperty("git-section")
+    order:
+      - file.name
+      - git-section
+    sort:
+      - property: git-section-order
+        direction: ASC
+      - property: git-order
+        direction: ASC
+    image: note.image

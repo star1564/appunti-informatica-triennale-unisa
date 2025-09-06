@@ -1,0 +1,1 @@
+Un'**Equivalenza** è una relazione tra due espressioni che *hanno lo stesso valore*.

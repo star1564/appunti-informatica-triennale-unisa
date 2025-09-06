@@ -1,0 +1,1 @@
+>Una classe di oggetti è **chiusa** rispetto ad una operazione *se l'applicazione* di questa operazione *a elementi della classe* restituisce un oggetto che *appartiene ancora a quella classe*.

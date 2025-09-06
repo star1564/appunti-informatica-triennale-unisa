@@ -1,0 +1,8 @@
+/* Grandezza LaTeX Matematica */
+.latex-big mjx-container {
+	font-size: 120%;
+}
+
+.latex-normal mjx-container {
+	font-size: 100%;
+}

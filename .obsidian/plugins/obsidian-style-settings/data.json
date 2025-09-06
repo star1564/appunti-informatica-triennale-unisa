@@ -1,0 +1,20 @@
+{
+  "catppuccin-theme-settings@@catppuccin-theme-dark": "ctp-mocha",
+  "catppuccin-theme-settings@@catppuccin-theme-accents": "ctp-accent-sky",
+  "catppuccin-heading-settings@@ctp-h1": "var(--ctp-rosewater)",
+  "catppuccin-heading-settings@@ctp-h2": "var(--ctp-flamingo)",
+  "catppuccin-heading-settings@@ctp-h3": "var(--ctp-pink)",
+  "catppuccin-heading-settings@@ctp-h4": "var(--ctp-mauve)",
+  "catppuccin-heading-settings@@ctp-h5": "var(--ctp-red)",
+  "catppuccin-heading-settings@@ctp-h6": "var(--ctp-maroon)",
+  "things-style@@h2-underline": true,
+  "things-style@@default-font-color": true,
+  "things-style@@h1-color": "#FF5733",
+  "things-style@@h2-color": "#FFCC29",
+  "things-style@@h3-color": "#36D7BC",
+  "things-style@@h4-color": "#00BFFF",
+  "things-style@@h4-transform": "none",
+  "things-style@@h5-color": "#55C57A",
+  "things-style@@h6-color": "#A3779E",
+  "things-style@@h2-size": "1.5em"
+}

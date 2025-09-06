@@ -1,0 +1,29 @@
+.h1-center h1 {
+	text-align: center;
+}
+
+.h2-center h2 {
+	text-align: center;
+}
+
+.h3-center h3 {
+	text-align: center;
+}
+
+.h4-center h4 {
+	text-align: center;
+}
+
+.h5-center h5 {
+	text-align: center;
+}
+
+.h6-center h6 {
+	text-align: center;
+}
+
+/* Titolo nota non centrato */
+.title-no-center .inline-title,
+.title-no-center .markdown-preview-section .inline-title {
+	text-align: initial;
+}

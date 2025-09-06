@@ -1,0 +1,5 @@
+/* Titolo nota centrato */
+.inline-title,
+.markdown-preview-section .inline-title {
+	text-align: center;
+}

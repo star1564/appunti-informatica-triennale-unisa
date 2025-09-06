@@ -1,0 +1,156 @@
+{
+  "collapse-filter": true,
+  "search": "",
+  "showTags": false,
+  "showAttachments": false,
+  "hideUnresolved": true,
+  "showOrphans": false,
+  "collapse-color-groups": true,
+  "colorGroups": [
+    {
+      "query": "tag:#corsi/informatica/architettura_degli_elaboratori  ",
+      "color": {
+        "a": 1,
+        "rgb": 12792370
+      }
+    },
+    {
+      "query": "tag:#corsi/matematica/matematica_discreta  ",
+      "color": {
+        "a": 1,
+        "rgb": 12792370
+      }
+    },
+    {
+      "query": "tag:#corsi/informatica/programmazione_strutture_dati  ",
+      "color": {
+        "a": 1,
+        "rgb": 16540676
+      }
+    },
+    {
+      "query": "tag:#corsi/matematica/metodi_matematici_informatica  ",
+      "color": {
+        "a": 1,
+        "rgb": 16540676
+      }
+    },
+    {
+      "query": "tag:#corsi/matematica/analisi  ",
+      "color": {
+        "a": 1,
+        "rgb": 16540676
+      }
+    },
+    {
+      "query": "tag:#corsi/informatica/sistemi_operativi  ",
+      "color": {
+        "a": 1,
+        "rgb": 16569412
+      }
+    },
+    {
+      "query": "tag:#corsi/informatica/programmazione_object_oriented  ",
+      "color": {
+        "a": 1,
+        "rgb": 16569412
+      }
+    },
+    {
+      "query": "tag:#corsi/informatica/basi_di_dati  ",
+      "color": {
+        "a": 1,
+        "rgb": 16569412
+      }
+    },
+    {
+      "query": "tag:#corsi/informatica/reti_calcolatori  ",
+      "color": {
+        "a": 1,
+        "rgb": 169560
+      }
+    },
+    {
+      "query": "tag:#corsi/informatica/tecnologie_software_web  ",
+      "color": {
+        "a": 1,
+        "rgb": 169560
+      }
+    },
+    {
+      "query": "tag:#corsi/informatica/progettazione_algoritmi  ",
+      "color": {
+        "a": 1,
+        "rgb": 169560
+      }
+    },
+    {
+      "query": "tag:#corsi/matematica/probabilità_statistica  ",
+      "color": {
+        "a": 1,
+        "rgb": 169560
+      }
+    },
+    {
+      "query": "tag:#corsi/informatica/ingegneria_software  ",
+      "color": {
+        "a": 1,
+        "rgb": 5748950
+      }
+    },
+    {
+      "query": "tag:#corsi/informatica/programmazione_distribuita  ",
+      "color": {
+        "a": 1,
+        "rgb": 5881050
+      }
+    },
+    {
+      "query": "tag:#corsi/informatica/machine_learning  ",
+      "color": {
+        "a": 1,
+        "rgb": 6013150
+      }
+    },
+    {
+      "query": "tag:#corsi/informatica/elementi_teoria_computazione  ",
+      "color": {
+        "a": 1,
+        "rgb": 5983644
+      }
+    },
+    {
+      "query": "tag:#corsi/informatica/grafica_interattivita  ",
+      "color": {
+        "a": 1,
+        "rgb": 6181026
+      }
+    },
+    {
+      "query": "tag:#corsi/matematica/ricerca_operativa  ",
+      "color": {
+        "a": 1,
+        "rgb": 6378151
+      }
+    },
+    {
+      "query": "tag:#corsi/informatica/sicurezza  ",
+      "color": {
+        "a": 1,
+        "rgb": 6575276
+      }
+    }
+  ],
+  "collapse-display": false,
+  "showArrow": false,
+  "textFadeMultiplier": -1.4,
+  "nodeSizeMultiplier": 1.18492723492724,
+  "lineSizeMultiplier": 0.288461538461538,
+  "collapse-forces": false,
+  "centerStrength": 0,
+  "repelStrength": 17.8170478170478,
+  "linkStrength": 0.682952182952183,
+  "linkDistance": 439,
+  "scale": 0.02152871844243027,
+  "close": false
+}

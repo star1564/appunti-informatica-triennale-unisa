@@ -1,0 +1,19 @@
+{
+  "readableLineLength": false,
+  "alwaysUpdateLinks": true,
+  "newFileLocation": "current",
+  "attachmentFolderPath": "99 - Meta/Attachments",
+  "defaultViewMode": "preview",
+  "spellcheck": true,
+  "spellcheckLanguages": null,
+  "propertiesInDocument": "source",
+  "promptDelete": false,
+  "showInlineTitle": true,
+  "pdfExportSettings": {
+    "includeName": false,
+    "pageSize": "A4",
+    "landscape": false,
+    "margin": "0",
+    "downscalePercent": 100
+  }
+}

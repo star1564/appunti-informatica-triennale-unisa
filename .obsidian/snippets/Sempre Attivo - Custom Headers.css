@@ -1,0 +1,61 @@
+/*
+{
+  "things-style@@default-font-color": true,
+  "things-style@@h1-size": "1.7em",
+  "things-style@@h1-color": "#FF5733",
+  "things-style@@h2-size": "1.5em",
+  "things-style@@h2-color": "#FFCC29",
+  "things-style@@h3-size": "1.4em",
+  "things-style@@h3-color": "#36D7BC",
+  "things-style@@h4-size": "1.2em",
+  "things-style@@h4-color": "#55C57A",
+  "things-style@@h5-size": "1.2em",
+  "things-style@@h5-color": "#00BFFF",
+  "things-style@@h6-size": "1em",
+  "things-style@@h6-color": "#A3779E"
+}
+*/
+
+/* Header 1  */
+.inline-title,
+span.cm-header-1,
+.markdown-preview-section .inline-title,
+.markdown-preview-section h1 {
+	color: #ff5733 !important;
+	font-size: 1.7em;
+}
+
+/* Header 2  */
+.cm-header.cm-header-2,
+.markdown-preview-section h2 {
+	color: #ffcc29 !important;
+	font-size: 1.5em;
+}
+
+/* Header 3  */
+.cm-header.cm-header-3,
+.markdown-preview-section h3 {
+	color: #36d7bc !important;
+	font-size: 1.3em;
+}
+
+/* Header 4  */
+.cm-header.cm-header-4,
+.markdown-preview-section h4 {
+	color: #00bfff !important;
+	font-size: 1.2em;
+}
+
+/* Header 5  */
+.cm-header.cm-header-5,
+.markdown-preview-section h5 {
+	color: #55c57a !important;
+	font-size: 1.1em;
+}
+
+/* Header 6  */
+.cm-header.cm-header-6,
+.markdown-preview-section h6 {
+	color: #a3779e !important;
+	font-size: 1em;
+}

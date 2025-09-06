@@ -1,0 +1,9 @@
+/* Mostra una linea sotto gli H2 */
+.cm-header-2,
+.markdown-preview-section h2,
+.markdown-preview-section h2,
+.HyperMD-header.HyperMD-header-2.cm-line {
+	border-bottom: 2px solid var(--background-modifier-border);
+	width: 100%;
+	padding-bottom: 5px;
+}
