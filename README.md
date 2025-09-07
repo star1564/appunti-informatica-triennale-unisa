@@ -8,6 +8,11 @@ Le note coprono quasi tutti i corsi, tranne Programmazione I e Ricerca Operativa
 ## Come usare
 
 1. Clona o scarica la repository
+
+  ```
+  git clone https://github.com/star1564/appunti-informatica-triennale-unisa.git
+  ```
+
 2. Apri la cartella della repository in [Obsidian](https://obsidian.md/) come vault
 3. Abilita tutti i plugin
 4. Naviga tra le note utilizzando la sidebar, gli indici dei corsi e i link interni in **modalità reading**
