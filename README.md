@@ -22,8 +22,7 @@ Si può modificare la sezione "Appearance" delle impostazioni per cambiare il te
 Puoi usare o modificare questa repository come vuoi.
 
 ## Disclaimer
-
+- ***Le note non sono perfette. Possono contenere errori, omissioni o interpretazioni personali. Usali come supporto, non come unica fonte di studio.***
 - Alcune immagini presenti appartengono ai rispettivi creatori: docenti, autori di libri, articoli o presentazioni. I diritti restano ai legittimi proprietari.
 - Le fonti principali degli argomenti sono principalmente le slides dei corsi. Ma possono includere anche video, siti e articoli; in tal caso vengono citati in fondo alla nota.
-- Le note non sono perfette. Possono contenere errori, omissioni o interpretazioni personali. Usali come supporto, non come unica fonte di studio.
 - La qualità delle note è migliorata negli anni, infatti, gli appunti più recenti sono generalmente più completi e chiari rispetto a quelli dei primi anni.
